@@ -1,0 +1,49 @@
+{
+    // Personal workbench preferences
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "material-icon-theme",
+  
+    // Personal editor preferences
+    "editor.tabSize": 2,
+    "editor.fontSize": 17,
+    "editor.minimap.enabled": false,
+    "editor.suggestSelection": "first",
+  
+    //Personal explorer preferences
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+  
+    // Personal miscellaneous preferences
+    "git.autofetch": true,
+    "explorer.compactFolders": false,
+    "terminal.integrated.fontSize": 16,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "security.workspace.trust.untrustedFiles": "open",
+  
+    // Spellcheck preferences
+    "cSpell.language": "en, pt_BR",
+    "cSpell.enableFiletypes": ["dart", "ruby"],
+  
+    // Dart/Flutter preferences
+    "dart.lineLength": 120,
+    "git.confirmSync": false,
+    "dart.debugSdkLibraries": false,
+    "debug.openDebug": "openOnDebugBreak",
+    "dart.debugExternalPackageLibraries": false,
+    "[dart]": {
+      "editor.tabSize": 2,
+      "editor.rulers": [80, 120],
+      "editor.formatOnSave": true,
+      "editor.formatOnType": true,
+      "editor.suggestSelection": "first",
+      "editor.selectionHighlight": false,
+      "editor.wordBasedSuggestions": "off",
+      "editor.tabCompletion": "onlySnippets",
+      "editor.suggest.snippetsPreventQuickSuggestions": false,
+      "editor.codeActionsOnSave": {
+        "source.fixAll": "explicit",
+        "source.organizeImports": "explicit"
+      }
+    },
+  }
+  

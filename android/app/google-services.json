@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222219867307",
+    "project_id": "aluminexadmin",
+    "storage_bucket": "aluminexadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222219867307:android:ed5239d03a63ca99a713ee",
+        "android_client_info": {
+          "package_name": "com.example.test_flutter_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOBG-8Z2-pCIyywy2p-kOOKxkeY8JOEzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
